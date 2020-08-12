@@ -11,7 +11,8 @@ It's powered by [GJSON](https://github.com/tidwall/gjson) and [SJSON](https://gi
 
 It's [fast](#performance) because it avoids parsing irrelevant sections of json, skipping over values that do not apply, and aborts as soon as the target value has been found or updated.
 
-*Disclaimer*
+### Disclaimer
+
 This is a fork of github.com/tidwall/jj with nothing changed but the module path and the examples listed in the readme pasted into the executables help text. All the mental effort was done by tidwall and kudos must go to him!
 
 Getting started
