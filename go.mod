@@ -1,4 +1,4 @@
-module github.com/tidwall/jj
+module github.com/jgrossophoff/jj
 
 go 1.13
 
